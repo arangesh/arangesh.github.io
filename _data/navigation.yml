@@ -2,6 +2,9 @@
 main:    
   - title: "Publications"
     url: /publications/
+    
+  - title: "Testbeds"
+    url: /testbeds/
 
   - title: "Teaching"
     url: /teaching/    
