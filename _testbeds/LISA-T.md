@@ -13,7 +13,7 @@ excerpt: 'Tesla Model S platform'
     * 1 Kinect v2
     * 1 Velodyne VLP-16 HiRes LiDAR
     * 2 VL6180 IR sensors etc.
-    * GPS/IMU
+    * VectorNav VN-200 INS
 * Fully calibrated cameras and LiDAR
 * Timestamped data streams
 
