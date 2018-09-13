@@ -7,7 +7,7 @@ excerpt: 'Toyota Avalon platform'
   <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-![](https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true) !](https://arangesh.github.io/images/LISA-A-im2.jpg?raw=true)
+![](https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true) ![](https://arangesh.github.io/images/LISA-A-im2.jpg?raw=true)
 
 * Toyota Avalon platform
 * Sensor suite:
