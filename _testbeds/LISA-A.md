@@ -9,11 +9,11 @@ excerpt: 'Toyota Avalon platform'
 
 * Toyota Avalon platform
 * Sensor suite:
- * 8 PointGrey Flea3 RGB cameras
- * 6 iBeo LiDARS
- * 4 Delphi SRR2 Radars
- * 1 Mobileye Driver Assistance System
- * GPS/IMU
+    * 8 PointGrey Flea3 RGB cameras
+    * 6 iBeo LiDARS
+    * 4 Delphi SRR2 Radars
+    * 1 Mobileye Driver Assistance System
+    * GPS/IMU
 * Fully calibrated cameras and LiDARs
 * Timestamped data streams
 
