@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
-—Online multi-object tracking (MOT) is extremely
+Online multi-object tracking (MOT) is extremely
 important for high-level spatial reasoning and path planning
 for autonomous and highly-automated vehicles. In this paper,
 we present a modular framework for tracking multiple objects
