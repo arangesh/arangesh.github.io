@@ -1,7 +1,7 @@
 ---
 title: "LISA-A"
 permalink: /testbeds/LISA-A
-excerpt: ''
+excerpt: 'Toyota Avalon platform'
 date: 2015-01-01
 ---
 <p align="center">
