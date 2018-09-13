@@ -3,5 +3,5 @@ title: "Physics Laboratory: Electricity and Magnetism, Waves and Optic (Spring Q
 collection: teaching
 type: "Undergraduate Lab"
 venue: "UC San Diego, Department of Physics"
-date: 2016-04-01
+date: 2015-04-01
 ---
