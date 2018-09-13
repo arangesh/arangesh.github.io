@@ -11,5 +11,6 @@ Over the last decade, there have been many studies that focus on modeling driver
 human pose estimation, and the use gradient based image features to detect the presence/absence of a device in either hand of a pedestrian. Information from different streams and their dependencies on one another are encoded by a belief network. This network is then used to predict a probability score suggesting the involvement of a subject with his/her device.
 
 [Download paper here](http://cvrr.ucsd.edu/publications/2016/0539.pdf)
+[Video results](https://www.youtube.com/watch?v=i_fdoM4XGWA&feature=youtu.be)
 
 Recommended citation: Akshay Rangesh, Eshed Ohn-Bar, Kevan Yuen and Mohan M. Trivedi, "Pedestrians and their Phones - Detecting Phone-based Activities of Pedestrians for Autonomous Vehicles," IEEE International Conference on Intelligent Transportation Systems (ITSC), 2016.
