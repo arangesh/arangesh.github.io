@@ -4,7 +4,7 @@ permalink: /testbeds/LISA-T
 excerpt: 'Tesla Model S platform'
 ---
 <p align="center">
-  <img src="https://arangesh.github.io/images/LISA-T-im1.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
+  <img src="https://arangesh.github.io/images/LISA-T-im1.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 With increasing automated driving capabilities
