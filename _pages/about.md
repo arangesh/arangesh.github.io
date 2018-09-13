@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. candidate in the [Electrical and Computer Engineering Department](http://www.ece.ucsd.edu/) at [UC San Diego](https://ucsd.edu/), where I am advised by [Prof. Mohan M. Trivedi](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=68).
+* I am a Ph.D. candidate in the [Electrical and Computer Engineering Department](http://www.ece.ucsd.edu/) at [UC San Diego](https://ucsd.edu/). My research advisor is [Prof. Mohan M. Trivedi](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=68).
 * As part of the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/), I have been involved in the design, calibration and operation of heavily sensorized vehicular testbeds, real-world data collection and labelling, and the development and deployment of driver and vehicle safety algorithms.
 * My research interests span Computer Vision and Machine Learning, with a focus on object detection and tracking, human activity recognition, and driver safety systems in general. I am also particularly interested in sensor fusion and multi-modal approaches for real time algorithms.
 * I received my Bachelor’s in Electronics & Communication Engineering at the [National Institute of Technology, Silchar](http://www.nits.ac.in/) in India. My undergraduate research advisor was [Prof. Jayasree Chakraborty](http://hpbresearch.org/members/jayasree-chakraborty/).
