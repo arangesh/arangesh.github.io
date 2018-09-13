@@ -1,7 +1,7 @@
 ---
 title: "Pedestrians and their Phones - Detecting Phone-based Activities of Pedestrians for Autonomous Vehicles"
 collection: publications
-permalink: /publication/paper-1
+permalink: /testbeds/LISA-A
 excerpt: ''
 date: 2016-01-01
 venue: 'IEEE International Conference on Intelligent Transportation Systems'
