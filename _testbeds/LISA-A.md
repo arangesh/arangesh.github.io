@@ -6,7 +6,7 @@ excerpt: ''
 date: 2015-01-01
 ---
 <p align="center">
-  <img src="https://arangesh.github.io/images/LISA-A-im1.png?raw=true" alt="Photo" style="width: 350px;"/> 
+  <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 Recent progress in autonomous and semiautonomous
