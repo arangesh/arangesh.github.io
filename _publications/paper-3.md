@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 3"
+title: "How would surround vehicles move? A Unified Framework for Maneuver Classification and Motion Prediction"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/paper-3
+excerpt: ''
+date: 2018-01-01
+venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Reliable prediction of surround vehicle motion is a
+critical requirement for path planning for autonomous vehicles.
+In this paper we propose a unified framework for surround
+vehicle maneuver classification and motion prediction that exploits
+multiple cues, namely, the estimated motion of vehicles,
+an understanding of typical motion patterns of freeway traffic
+and inter-vehicle interaction. We report our results in terms of
+maneuver classification accuracy and mean and median absolute
+error of predicted trajectories against the ground truth for
+real traffic data collected using vehicle mounted sensors on
+freeways. An ablative analysis is performed to analyze the relative
+importance of each cue for trajectory prediction. Additionally, an
+analysis of execution time for the components of the framework
+is presented. Finally, we present multiple case studies an
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[PDF link](http://cvrr.ucsd.edu/publications/2018/t-IV-DeoRangeshTrivedi-UnifiedVechicleMotionPrediction.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Video results](https://www.youtube.com/watch?v=5KTMMy1Sz-M&t=0s&index=1&list=PLUebh5NWCQUYwB0xxFUwJNdpHIF1G_Kxo)
