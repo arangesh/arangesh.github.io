@@ -33,5 +33,3 @@ good generalization capabilities
 [PDF link](http://cvrr.ucsd.edu/publications/2018/sourabh_gaze_zone.pdf)
 
 [Video results](https://www.youtube.com/watch?v=ZjzoDL_2CbU&list=PLUebh5NWCQUaPmdZIGE508Bhh6AjwID8R&index=1&t=0s)
-
-Recommended citation: Sourabh Vora, Akshay Rangesh and Mohan M. Trivedi, "Driver Gaze Zone Estimation using Convolutional Neural Networks: A General Framework and Ablative Analysis," IEEE Transactions on Intelligent Vehicles, 2018.
