@@ -10,21 +10,7 @@ venue: 'IEEE Transactions on Intelligent Vehicles'
   <img src="https://arangesh.github.io/images/paper-3-im.png?raw=true" alt="Photo" style="width: 900px;"/> 
 </p>
 
-Reliable prediction of surround vehicle motion is a
-critical requirement for path planning for autonomous vehicles.
-In this paper we propose a unified framework for surround
-vehicle maneuver classification and motion prediction that exploits
-multiple cues, namely, the estimated motion of vehicles,
-an understanding of typical motion patterns of freeway traffic
-and inter-vehicle interaction. We report our results in terms of
-maneuver classification accuracy and mean and median absolute
-error of predicted trajectories against the ground truth for
-real traffic data collected using vehicle mounted sensors on
-freeways. An ablative analysis is performed to analyze the relative
-importance of each cue for trajectory prediction. Additionally, an
-analysis of execution time for the components of the framework
-is presented. Finally, we present multiple case studies analyzing
-the outputs of our model for complex traffic scenarios.
+Reliable prediction of surround vehicle motion is a critical requirement for path planning for autonomous vehicles. In this paper we propose a unified framework for surround vehicle maneuver classification and motion prediction that exploits multiple cues, namely, the estimated motion of vehicles, an understanding of typical motion patterns of freeway traffic and inter-vehicle interaction. We report our results in terms of maneuver classification accuracy and mean and median absolute error of predicted trajectories against the ground truth for real traffic data collected using vehicle mounted sensors on freeways. An ablative analysis is performed to analyze the relative importance of each cue for trajectory prediction. Additionally, an analysis of execution time for the components of the framework is presented. Finally, we present multiple case studies analyzing the outputs of our model for complex traffic scenarios.
 
 [PDF link](http://cvrr.ucsd.edu/publications/2018/t-IV-DeoRangeshTrivedi-UnifiedVechicleMotionPrediction.pdf)
 
