@@ -12,5 +12,3 @@ human pose estimation, and the use gradient based image features to detect the p
 [PDF link](http://cvrr.ucsd.edu/publications/2016/0539.pdf)
 
 [Video results](https://www.youtube.com/watch?v=i_fdoM4XGWA&feature=youtu.be)
-
-Recommended citation: Akshay Rangesh, Eshed Ohn-Bar, Kevan Yuen and Mohan M. Trivedi, "Pedestrians and their Phones - Detecting Phone-based Activities of Pedestrians for Autonomous Vehicles," IEEE International Conference on Intelligent Transportation Systems (ITSC), 2016.
