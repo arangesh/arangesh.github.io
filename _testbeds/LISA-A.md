@@ -1,6 +1,5 @@
 ---
 title: "LISA-A"
-collection: testbeds
 permalink: /testbeds/LISA-A
 excerpt: ''
 date: 2015-01-01
