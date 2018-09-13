@@ -9,11 +9,11 @@ excerpt: 'Tesla Model S platform'
 
 * Tesla Model S platform
 * Sensor suite:
- * 11 GoPro Hero 4 Blacks
- * 1 Kinect v2
- * 1 Velodyne VLP-16 HiRes LiDAR
- * 2 VL6180 IR sensors etc.
- * GPS/IMU
+    * 11 GoPro Hero 4 Blacks
+    * 1 Kinect v2
+    * 1 Velodyne VLP-16 HiRes LiDAR
+    * 2 VL6180 IR sensors etc.
+    * GPS/IMU
 * Fully calibrated cameras and LiDAR
 * Timestamped data streams
 
