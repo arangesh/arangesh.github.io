@@ -6,6 +6,10 @@ excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
+<p align="center">
+  <img src="https://arangesh.github.io/images/paper-4-im.png?raw=true" alt="Photo" style="width: 900px;"/> 
+</p>
+
 Online multi-object tracking (MOT) is extremely
 important for high-level spatial reasoning and path planning
 for autonomous and highly-automated vehicles. In this paper,
