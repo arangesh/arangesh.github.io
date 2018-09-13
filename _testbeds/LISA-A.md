@@ -7,11 +7,15 @@ excerpt: 'Toyota Avalon platform'
   <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-* 8 PointGrey Flea3 RGB cameras
-* 6 iBeo LiDARS
-* 4 Delphi SRR2 Radars
-* 1 Mobileye Driver Assistance System
-* GPS/IMU
+* Toyota Avalon platform
+* Sensor suite:
+ * 8 PointGrey Flea3 RGB cameras
+ * 6 iBeo LiDARS
+ * 4 Delphi SRR2 Radars
+ * 1 Mobileye Driver Assistance System
+ * GPS/IMU
+* Fully calibrated cameras and LiDARs
+* Timestamped data streams
 
 [PDF link](http://cvrr.ucsd.edu/testbeds/lisa-a/info.pdf)
 
