@@ -6,6 +6,10 @@ excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
+<p align="center">
+  <img src="https://arangesh.github.io/images/paper-3-im.png?raw=true" alt="Photo" style="width: 900px;"/> 
+</p>
+
 Reliable prediction of surround vehicle motion is a
 critical requirement for path planning for autonomous vehicles.
 In this paper we propose a unified framework for surround
