@@ -1,7 +1,7 @@
 ---
 title: "LISA-T"
 permalink: /testbeds/LISA-T
-excerpt: ''
+excerpt: 'Tesla Model S platform'
 date: 2018-01-01
 ---
 <p align="center">
