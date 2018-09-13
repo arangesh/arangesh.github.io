@@ -6,6 +6,10 @@ excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
+<p align="center">
+  <img src="https://arangesh.github.io/images/paper-2-im.png?raw=true" alt="Photo" style="width: 900px;"/> 
+</p>
+
 Driver gaze has been shown to be an excellent
 surrogate for driver attention in intelligent vehicles. With the
 recent surge of highly autonomous vehicles, driver gaze can be
