@@ -13,7 +13,7 @@ excerpt: 'Toyota Avalon platform'
     * 6 iBeo LiDARS
     * 4 Delphi SRR2 Radars
     * 1 Mobileye Driver Assistance System
-    * GPS/IMU
+    * VectorNav VN-200 INS
 * Fully calibrated cameras and LiDARs
 * Timestamped data streams
 
