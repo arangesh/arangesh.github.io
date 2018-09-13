@@ -19,7 +19,8 @@ real traffic data collected using vehicle mounted sensors on
 freeways. An ablative analysis is performed to analyze the relative
 importance of each cue for trajectory prediction. Additionally, an
 analysis of execution time for the components of the framework
-is presented. Finally, we present multiple case studies an
+is presented. Finally, we present multiple case studies analyzing
+the outputs of our model for complex traffic scenarios.
 
 [PDF link](http://cvrr.ucsd.edu/publications/2018/t-IV-DeoRangeshTrivedi-UnifiedVechicleMotionPrediction.pdf)
 
