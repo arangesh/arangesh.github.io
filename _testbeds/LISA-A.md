@@ -3,27 +3,9 @@ title: "LISA-A (2015)"
 permalink: /testbeds/LISA-A
 excerpt: 'Toyota Avalon platform'
 ---
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-<div id="banner">
-    <div class="inline-block">
-        <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" alt="Photo" style="width: 400px;">
-    </div>
-    <div class="inline-block">
-        <img src="https://arangesh.github.io/images/LISA-A-im2.jpg?raw=true" alt="Photo" style="width: 300px;">
-    </div>
-</div>
+<p align="center">
+  <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
 
 * Toyota Avalon platform
 * Sensor suite:
