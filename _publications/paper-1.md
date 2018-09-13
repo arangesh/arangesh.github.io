@@ -7,7 +7,7 @@ date: 2016-01-01
 venue: 'IEEE International Conference on Intelligent Transportation Systems'
 ---
 <p align="center">
-  <img src="https://arangesh.github.io/images/paper-1-im.png?raw=true" alt="Photo" style="width: 300px;"/> 
+  <img src="https://arangesh.github.io/images/paper-1-im.png?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 Over the last decade, there have been many studies that focus on modeling driver behavior, and in particular detecting and overcoming driver distraction in an effort to reduce accidents caused by driver negligence. Such studies assume that the entire onus of avoiding accidents are on the driver alone. In this study, we adopt a different stance and study the behavior of pedestrians instead. In particular, we focus on detecting pedestrians who are engaged in secondary activities involving their cellphones and similar hand-held multimedia devices from a purely vision-based standpoint. To achieve this objective, we propose a pipeline incorporating articulated
