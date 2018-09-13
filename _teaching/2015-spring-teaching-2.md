@@ -1,8 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Special Topics in Robotics and Control Systems"
 collection: teaching
-type: "Workshop"
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+venue: "UC San Diego, Electrical and Computer Engineering"
+date: Spring 2018
 ---
