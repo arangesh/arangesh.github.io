@@ -7,7 +7,6 @@ excerpt: 'Toyota Avalon platform'
     <div class="inline-block">
         <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" alt="Photo" style="width: 400px;"/>
     </div>
-
     <div class="inline-block">
         <img src="https://arangesh.github.io/images/LISA-A-im2.jpg?raw=true" alt="Photo" style="width: 300px;"/>
     </div>
