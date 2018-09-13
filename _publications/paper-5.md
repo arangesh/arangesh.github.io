@@ -6,6 +6,10 @@ excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition - 3D HUMANS Workshop'
 ---
+<p align="center">
+  <img src="https://arangesh.github.io/images/paper-5-im.png?raw=true" alt="Photo" style="width: 700px;"/> 
+</p>
+
 Tasks related to human hands have long been part of the
 computer vision community. Hands being the primary actuators
 for humans, convey a lot about activities and intents,
