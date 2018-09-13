@@ -6,8 +6,29 @@ excerpt: ''
 date: 2018-01-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
-Over the last decade, there have been many studies that focus on modeling driver behavior, and in particular detecting and overcoming driver distraction in an effort to reduce accidents caused by driver negligence. Such studies assume that the entire onus of avoiding accidents are on the driver alone. In this study, we adopt a different stance and study the behavior of pedestrians instead. In particular, we focus on detecting pedestrians who are engaged in secondary activities involving their cellphones and similar hand-held multimedia devices from a purely vision-based standpoint. To achieve this objective, we propose a pipeline incorporating articulated
-human pose estimation, and the use gradient based image features to detect the presence/absence of a device in either hand of a pedestrian. Information from different streams and their dependencies on one another are encoded by a belief network. This network is then used to predict a probability score suggesting the involvement of a subject with his/her device.
+Driver gaze has been shown to be an excellent
+surrogate for driver attention in intelligent vehicles. With the
+recent surge of highly autonomous vehicles, driver gaze can be
+useful for determining the handoff time to a human driver.
+While there has been significant improvement in personalized
+driver gaze zone estimation systems, a generalized system which
+is invariant to different subjects, perspectives and scales is
+still lacking. We take a step towards this generalized system
+using Convolutional Neural Networks (CNNs). We finetune 4
+popular CNN architectures for this task, and provide extensive
+comparisons of their outputs. We additionally experiment with
+different input image patches, and also examine how image size
+affects performance. For training and testing the networks, we
+collect a large naturalistic driving dataset comprising of 11 long
+drives, driven by 10 subjects in two different cars. Our best
+performing model achieves an accuracy of 95.18% during crosssubject
+testing, outperforming current state of the art techniques
+for this task. Finally, we evaluate our best performing model
+on the publicly available Columbia Gaze Dataset comprising of
+images from 56 subjects with varying head pose and gaze directions.
+Without any training, our model successfully encodes the
+different gaze directions on this diverse dataset, demonstrating
+good generalization capabilities
 
 [PDF link](http://cvrr.ucsd.edu/publications/2018/sourabh_gaze_zone.pdf)
 
