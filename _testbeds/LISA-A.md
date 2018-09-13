@@ -4,8 +4,8 @@ permalink: /testbeds/LISA-A
 excerpt: 'Toyota Avalon platform'
 ---
 <p align="center">
-  <img src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" width="400" />
-  <img src="https://arangesh.github.io/images/LISA-A-im2.jpg?raw=true" width="300" />
+  <img align="middle" src="https://arangesh.github.io/images/LISA-A-im1.jpg?raw=true" width="400" />
+  <img align="middle" src="https://arangesh.github.io/images/LISA-A-im2.jpg?raw=true" width="300" />
 </p>
 
 * Toyota Avalon platform
