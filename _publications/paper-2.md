@@ -28,7 +28,7 @@ on the publicly available Columbia Gaze Dataset comprising of
 images from 56 subjects with varying head pose and gaze directions.
 Without any training, our model successfully encodes the
 different gaze directions on this diverse dataset, demonstrating
-good generalization capabilities
+good generalization capabilities.
 
 [PDF link](http://cvrr.ucsd.edu/publications/2018/sourabh_gaze_zone.pdf)
 
