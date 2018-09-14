@@ -4,8 +4,8 @@ permalink: /testbeds/LISA-T
 excerpt: 'Tesla Model S platform'
 ---
 <p align="center">
-  <img align="middle" src="https://arangesh.github.io/images/LISA-T-im1.jpg?raw=true" width="350" />
-  <img align="middle" src="https://arangesh.github.io/images/LISA-T-im2.jpg?raw=true" width="350" />
+  <img align="middle" src="https://arangesh.github.io/images/LISA-T-im1.jpg?raw=true" width="250" />
+  <img align="middle" src="https://arangesh.github.io/images/LISA-T-im2.jpg?raw=true" width="250" />
 </p>
 
 * Tesla Model S platform
