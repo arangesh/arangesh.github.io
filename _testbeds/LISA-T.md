@@ -13,7 +13,7 @@ excerpt: 'Tesla Model S platform'
     * 11 GoPro Hero 4 Blacks (6 looking-out + 5 looking-in)
     * 1 Kinect v2
     * 1 Velodyne VLP-16 HiRes LiDAR
-    * 2 VL6180 IR sensors etc.
+    * 2 VL6180 IR sensors
     * VectorNav VN-200 INS
 * Fully calibrated cameras and LiDAR
 * Timestamped data streams
