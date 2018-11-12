@@ -7,7 +7,7 @@ date: 2018-11-12
 venue: 'arXiv'
 ---
 <p align="center">
-  <img src="https://arangesh.github.io/images/paper-6-im.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://arangesh.github.io/images/paper-6-im.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 This paper introduces an approach to produce accurate 3D detection boxes for objects on the ground using single monocular images. We do so by merging 2D visual cues, 3D object dimensions, and ground plane constraints to produce boxes that are robust against small errors and incorrect predictions. First, we train a single-stage, single-pass convolutional neural network (CNN) that produces multiple visual and geometric cues of interest: 2D bounding boxes, 2D keypoints of interest, coarse object orientations and object dimensions. Subsets of these cues are then used to *poll* probable ground planes from a pre-computed database of ground planes, to identify the "best fit" plane with highest consensus. Once identified, the "best fit" plane provides enough constraints to successfully construct the desired 3D detection box, without directly predicting the 6DoF pose of the object. This entire polling procedure is constructed as a non-parametrized layer of the CNN that outputs the desired "best fit" plane and the corresponding 3D keypoints, which together define the final 3D bounding box. Doing so allows us to poll thousands of different ground plane configurations without adding considerable overhead, while also creating a single CNN that directly produces the desired output without the need for post processing.
