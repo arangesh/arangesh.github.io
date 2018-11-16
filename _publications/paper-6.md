@@ -1,5 +1,5 @@
 ---
-title: "Ground Plane Polling for Localization & 6DoF Pose Estimation of Objects on the Road"
+title: "Ground Plane Polling for 6DoF Pose Estimation of Objects on the Road"
 collection: publications
 permalink: /publication/paper-6
 excerpt: ''
