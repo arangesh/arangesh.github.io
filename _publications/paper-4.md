@@ -14,6 +14,6 @@ Online multi-object tracking (MOT) is extremely important for high-level spatial
 
 To verify the effectiveness of our approach, we test it on real world highway data collected from a heavily sensorized testbed capable of capturing full-surround information. We demonstrate that our framework is well-suited to track objects through entire maneuvers around the ego-vehicle, some of which take more than a few minutes to complete. We also leverage the modularity of our approach by comparing the effects of including/excluding different sensors, changing the total number of sensors, and the quality of object proposals on the final tracking result.
 
-[PDF link](http://cvrr.ucsd.edu/publications/2018/M3OT.pdf)
+[PDF link](http://cvrr.ucsd.edu/publications/2019/M3OT.pdf)
 
 [Video results](https://www.youtube.com/watch?v=UowMiGXoWbc&t=2s&index=1&list=PLUebh5NWCQUbP9LXdV8E_b-6y7C9hIEHT)
