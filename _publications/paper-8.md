@@ -14,7 +14,7 @@ This paper provides a simple solution for reliably solving image classification 
 
 [PDF link](http://cvrr.ucsd.edu/publications/2019/FSAFAC.pdf)
 
-[Video results](https://www.youtube.com/watch?v=AP8x_W--YDY&list=PLUebh5NWCQUZ_JgaIonLNZF3zh1wDse-1&index=2&t=0s)
+[Video results](https://www.youtube.com/watch?v=0irynrv4_7U&list=PLUebh5NWCQUZ_JgaIonLNZF3zh1wDse-1&index=2&t=0s)
 
 [Code](https://github.com/arangesh/Forced-Spatial-Attention)
 
