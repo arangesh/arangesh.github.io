@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-8
 excerpt: ''
 date: 2019-10-23
-venue: 'ICCV Workshop on Assistive Computer Vision and Robotics'
+venue: 'ICCV Workshop on Assistive Computer Vision and Robotics (Oral)'
 ---
 <p align="center">
   <img src="https://arangesh.github.io/images/paper-8-im.png?raw=true" alt="Photo" style="width: 700px;"/> 
