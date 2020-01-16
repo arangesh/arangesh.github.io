@@ -1,7 +1,7 @@
 ---
 title: "3D BAT: A Semi-Automatic, Web-based 3D Annotation Toolbox for Full-Surround, Multi-Modal Data Streams"
 collection: publications
-permalink: /publication/paper-7
+permalink: /publication/paper-6
 excerpt: ''
 date: 2019-06-10
 venue: 'IEEE Intelligent Vehicles Symposium'
