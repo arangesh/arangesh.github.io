@@ -1,7 +1,7 @@
 ---
 title: "Ground Plane Polling for 6DoF Pose Estimation of Objects on the Road"
 collection: publications
-permalink: /publication/paper-6
+permalink: /publication/paper-8
 excerpt: ''
 date: 2020-01-10
 venue: 'IEEE Transactions on Intelligent Vehicles'
