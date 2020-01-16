@@ -1,7 +1,7 @@
 ---
 title: "Forced Spatial Attention for Driver Foot Activity Classification"
 collection: publications
-permalink: /publication/paper-8
+permalink: /publication/paper-7
 excerpt: ''
 date: 2019-10-23
 venue: 'ICCV Workshop on Assistive Computer Vision and Robotics (Oral)'
