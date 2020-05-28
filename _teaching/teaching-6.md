@@ -1,5 +1,5 @@
 ---
-title: "Special Topics in Robotics and Control Systems (Spring Quarter)"
+title: "Special Topics in Intelligent Systems, Robotics & Control (Spring Quarter)"
 collection: teaching
 type: "Graduate course"
 venue: "UC San Diego, Electrical and Computer Engineering"
