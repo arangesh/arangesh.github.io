@@ -16,6 +16,4 @@ Tasks related to human hands have long been part of the computer vision communit
 
 [Video results](https://www.youtube.com/watch?v=4dxSdFbnTFM&list=PLUebh5NWCQUah_cBzcRlZvoSMa-7GC3FL)
 
-[Dataset](https://drive.google.com/file/d/1wV8gmTgap24MTFxCqno4_TLiB-3YPcc-/view?usp=sharing)
-
-[Code](https://github.com/arangesh/HandyNet)
+[Code, dataset & trained model weights](https://github.com/arangesh/HandyNet)
