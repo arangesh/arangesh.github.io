@@ -15,6 +15,6 @@ consisting of the top view (bird’s-eye-view), side view and front views is mad
 
 [PDF link](http://cvrr.ucsd.edu/publications/2019/3D-BAT.pdf)
 
-[Video results](https://youtu.be/gSGG4Lw8BSU)
+[Video](https://youtu.be/gSGG4Lw8BSU)
 
 [Code](https://github.com/walzimmer/3d-bat)
