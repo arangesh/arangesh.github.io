@@ -16,4 +16,4 @@ This paper introduces an approach to produce accurate 3D detection boxes for obj
 
 [Video results](https://www.youtube.com/watch?v=jvX6hR8z1T8&list=PLUebh5NWCQUaplkmtZD5tnti29U1G-08H&index=2)
 
-[Code](https://github.com/arangesh/Ground-Plane-Polling)
+[Code and trained model weights](https://github.com/arangesh/Ground-Plane-Polling)
