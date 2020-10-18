@@ -14,4 +14,4 @@ A driver's gaze is critical for determining the driver's attention level, state,
 
 [PDF link](http://cvrr.ucsd.edu/publications/2020/GPCycleGAN.pdf)
 
-[Code](https://github.com/arangesh/GPCycleGAN)
+[Code, dataset & trained model weights](https://github.com/arangesh/GPCycleGAN)
