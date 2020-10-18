@@ -16,5 +16,5 @@ This paper provides a simple solution for reliably solving image classification 
 
 [Video results](https://www.youtube.com/watch?v=0irynrv4_7U&list=PLUebh5NWCQUZ_JgaIonLNZF3zh1wDse-1&index=2&t=0s)
 
-[Code](https://github.com/arangesh/Forced-Spatial-Attention)
+[Code, dataset & trained models](https://github.com/arangesh/Forced-Spatial-Attention)
 
