@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-11
 excerpt: ''
 date: 2021-03-21
-venue: 'arXiv'
+venue: 'arXiv:2103.12040'
 ---
 <p align="center">
   <img src="https://arangesh.github.io/images/paper-11-im.png?raw=true" alt="Photo" style="width: 650px;"/> 
