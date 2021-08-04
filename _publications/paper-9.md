@@ -3,7 +3,7 @@ title: "Gaze Preserving CycleGANs for Eyeglass Removal & Persistent Gaze Estimat
 collection: publications
 permalink: /publication/paper-9
 excerpt: ''
-date: 2020-02-05
+date: 2021-08-05
 venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
 <p align="center">
