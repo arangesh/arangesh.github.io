@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-9
 excerpt: ''
 date: 2020-02-05
-venue: 'arXiv:2002.02077'
+venue: 'IEEE Transactions on Intelligent Vehicles'
 ---
 <p align="center">
   <img src="https://arangesh.github.io/images/paper-9-im.png?raw=true" alt="Photo" style="width: 650px;"/> 
