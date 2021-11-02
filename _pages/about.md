@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Postdoctoral Researcher at the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/), where I oversee the design, calibration and operation of heavily sensorized vehicular testbeds, real-world data collection, and labelling.
+* I am a Senior Applied Research Scientist at [Cruise](https://getcruise.com/) where I work for the Prediction AI team. I'm excited about making commutes in cities safer and less daunting.
 * My research interests span Computer Vision and Machine Learning, with a focus on object detection and tracking, human activity recognition, driver behavior analysis, and driver safety systems in general. I am also particularly interested in sensor fusion and multi-modal approaches for real time algorithms.
-* I received my Master's and PhD in Electrical Engineering at [UC San Diego](https://ucsd.edu/) where I was advised by [Prof. Mohan M. Trivedi](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=68).
+* I received my Master's and PhD in Electrical Engineering at [UC San Diego](https://ucsd.edu/) where I was advised by [Prof. Mohan M. Trivedi](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=68). As part of the [Laboratory for Intelligent & Safe Automobiles (LISA)](http://cvrr.ucsd.edu/), I developed unique models/algorithms to enhance driver and vehicle safety. I also oversaw the design, calibration and operation of heavily sensorized vehicular testbeds, as well as real-world data collection and labelling.
 * I received my Bachelor’s in Electronics & Communication Engineering at the [National Institute of Technology, Silchar](http://www.nits.ac.in/) in India. My undergraduate research advisor was [Prof. Jayasree Chakraborty](https://scholar.google.com/citations?hl=en&user=6r9hchQAAAAJ&view_op=list_works).
 
 # Updates
